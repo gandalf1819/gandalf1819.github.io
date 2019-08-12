@@ -23,7 +23,7 @@ menu_settings:
     - title: 'Contact'
       url: '/contact'
     - title: 'Photography'
-      url: '/photography'
+      url: '/photo'
 
 grid_settings:
   grid_spacing: 10
