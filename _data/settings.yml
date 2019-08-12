@@ -11,7 +11,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Skills'
-      url: '/'
+      url: '/skills'
     - title: 'Projects'
       url: '/projects/'
     - title: 'About'
