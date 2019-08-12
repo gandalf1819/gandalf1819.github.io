@@ -10,8 +10,8 @@ header_settings:
 
 menu_settings:
   menu_items:
-    # - title: 'Latest'
-    #   url: '/'
+    - title: 'Skills'
+      url: '/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'About'
