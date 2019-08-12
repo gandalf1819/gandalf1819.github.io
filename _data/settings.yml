@@ -12,6 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Skills'
       url: '/skills'
+    - title: 'Certifications'
+      url: '/certifications'
     - title: 'Projects'
       url: '/projects/'
     - title: 'About'
