@@ -2,7 +2,7 @@
 title: Photography
 subtitle: 
 description: Photography portfolio
-featured_image: /images/sidebar-about.jpg
+featured_image: /images/nyu-violet.png
 ---
 
 ### Photography portfolio 
