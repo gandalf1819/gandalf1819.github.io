@@ -16,6 +16,8 @@ menu_settings:
       url: '/certifications'
     - title: 'Projects'
       url: '/projects/'
+    - title : 'Resume'
+      url: 'https://github.com/gandalf1819/gandalf1819.github.io/blob/master/_data/CNW-Resume-NYU.pdf'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
