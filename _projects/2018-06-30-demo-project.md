@@ -1,5 +1,5 @@
 ---
-title: 'Webber'
+title: 'Twitter Clone Distributed Systems Application'
 subtitle: 'A simple web application, comprised of a web server written in Go'
 date: 2018-06-30 00:00:00
 featured_image: '/images/go.png'
