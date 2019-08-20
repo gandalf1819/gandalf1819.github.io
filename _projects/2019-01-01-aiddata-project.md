@@ -1,11 +1,11 @@
 ---
 title: 'AidData'
-subtitle: 'AidData's Core Research Release 3.1 is a corrected snapshot of AidData's entire project-level database from April 2016'
+subtitle: 'AidData's entire project-level database from April 2016'
 date: 2018-04-30 00:00:00
 featured_image: '/images/fdl.png'
 ---
 
-![](/images/fdl.gif)
+![](/images/fdl.png)
 
 ## AidData's Core Research
 
