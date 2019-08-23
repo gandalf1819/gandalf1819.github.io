@@ -11,5 +11,5 @@ featured_image: /images/nyu-violet.png
 
 [Deep Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/1daf7cef94aa766de3081c05191a128365670c94) - DataCamp
 
-
+[Introduction to Corporate Finance](https://www.coursera.org/account/accomplishments/verify/2VHNJDS7ERLR) - The Wharton School, University of Pennsylvania
 
