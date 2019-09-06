@@ -2,16 +2,12 @@
 title: Travel
 subtitle: 
 description: A travel blog about places across the world
-featured_image: /images/dalhousie-cover.jpg
+featured_image: /images/dalhousie-cover.jpeg
 ---
 
 ### Dalhousie Trek #YHAI
 
-I am a graduate student pursuing Masters in Computer Science at New York University. 
-
-I am in search of internship and Full-time positions in the fields of Deep Learning, Reinforcement Learning, DevOps and Software Development.
-
-On weekends, I spend a lot of time working on Data Science projects, gaming, hiking, photographing and more importantly cooking new and creative recipes to improve my culinary skills ;)
+It was the winters of 2018 when the idea of Dalhousie trek came into action.
 
 ![](/images/mountains.png)
 
