@@ -2,7 +2,7 @@
 title: Travel
 subtitle: 
 description: A travel blog about places across the world
-featured_image: /images/sidebar-about.jpg
+featured_image: /images/dalhousie-cover.jpg
 ---
 
 ### Dalhousie Trek #YHAI

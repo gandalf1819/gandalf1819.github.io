@@ -24,6 +24,8 @@ menu_settings:
       url: '/contact'
     - title: 'Photography'
       url: '/photo'
+    - title: 'Travel'
+      url: '/travel'
 
 grid_settings:
   grid_spacing: 10
