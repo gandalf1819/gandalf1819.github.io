@@ -21,7 +21,7 @@ To find our long-forgotten gold"
 ![](/images/misty-mountains.jpg)
 
 # Mordor - Kalatop 
-# Khal dum - Khajiar lake
-# 3rd day - New place
+# Khal dum - Dalhousie
+# 3rd day - Khajiar lake 
 
-This was the first sight for the great "Himalayas" - The Misty Mountains. The journey later took a quick turn as the journey which lay ahead was more adventurous as we travelled via bus rather than train.  -->
+This was the first sight for the great "Himalayas" - The Misty Mountains. The journey later took a quick turn as the journey which lay ahead was more adventurous as we travelled via bus rather than train. The next destination before reaching Dalhousie was Pathankot. The journey proved to be an amazing one as we could see all the beautiful places on the way to Pathankot.  -->
