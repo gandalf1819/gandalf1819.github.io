@@ -51,4 +51,8 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+# Google Analytics
+google_analytics: UA-143778282-1
+
   
