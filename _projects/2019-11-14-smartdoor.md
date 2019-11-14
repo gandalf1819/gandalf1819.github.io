@@ -1,6 +1,6 @@
 ---
-title: 'SmartDoor is a distributed system that authenticates people and provides them with access to a virtual door'
-subtitle: 'SmartDoor is a distributed system that authenticates people and provides them with access to a virtual door using AWS services like Kinesis Video Streams, Amazon Rekognition and rest of the AWS stack.'
+title: 'SmartDoor: A distributed system that authenticates and authorizes visitors to a virtual SmartDoor'
+subtitle: 'SmartDoor: A distributed system that authenticates and authorizes visitors to a virtual SmartDoor'
 date:  2019-11-14 00:00:00
 featured_image: '/images/ring-amazon.png'
 ---
