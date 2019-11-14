@@ -1,11 +1,11 @@
 ---
 title: 'Risk Factor Identification using Truck Fleet Data'
 date: 2016-08-18 00:00:00
-featured_image: '/images/truck-fleet-cover.png'
+featured_image: '/images/truck-fleet.jpg'
 excerpt: Identify driver risk factors to understand the fatigue of drivers and over-used trucks
 ---
 
-![](/images/truck-fleet-cover.png)
+![](/images/truck-fleet.jpg)
 
 ## Risk Factor Identification using Truck Fleet Data
 
