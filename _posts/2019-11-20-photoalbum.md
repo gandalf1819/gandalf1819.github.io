@@ -2,7 +2,7 @@
 title: 'PhotoAlbum: A photo album web application which allows searching using natural language through both text and voice using AWS stack'
 date: 2019-11-20 00:00:00
 featured_image: '/images/aws-photos.jpg'
-excerpt: PhotoAlbum is a photo album web application which allows searching using natural language through both text and voice using Lex, ElasticSearch, and Rekognition for an intelligent search layer to query your photos for people, objects, actions, landmarks and more
+excerpt: PhotoAlbum is a  photo album web application which allows searching using natural language through both text and voice using AWS stack
 ---
 
 ![](/images/aws-photos.jpg)
