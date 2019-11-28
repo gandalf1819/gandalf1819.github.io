@@ -11,3 +11,6 @@ https://www.behance.net/chinmayw
 
 LinkedIn: <br>
 https://www.linkedin.com/in/chinmaywyawahare
+
+Tableau: <br>
+https://public.tableau.com/profile/chinmaynw#!/
