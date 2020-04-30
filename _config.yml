@@ -1,58 +1,70 @@
-site: Chinmay Wyawahare
+# Site setings
+name: 'Horace'
+description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
+meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: 
+production_url: https://horace.netlify.com/
+disqus: 'justgoodthemes'
+mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+cover_image: bc_1.jpg
+# Add your GA Tracking Id
+ga_analytics: 
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
+# Author
+author:
+  name: 'Chinmay Wyawahare'
+  image: 'animoji.jpg'
+  greetings: 'Hi there!'
+  description: "My name is Chinmay Wyawahare. I'm a freelance front-end developer, author and speaker based in New York, NY. It’s nice to meet you."
+  bio: 'Chinmay is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
 
-markdown: kramdown
+# Contact form setings
+email: youremail@email.com
+contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  
-sass:
-  style: compressed
+# Social links
+twitter: 'username'
+facebook: 'username'
+github: 'gandalf1819'
+codepen: 'username'
+dribbble: 'username'
+medium: '@chinmayw'
+instagram: 'wyavs'
+pinterest: 'username'
+linkedin: 'chinmaywyawahare'
+producthunt: '@username'
 
-plugins:
+# Navigation
+navigation:
+  - text: About
+    url: /about/
+  - text: Style Guide
+    url: /style-guide/
+  - text: Contact Me
+    url: /contact/
+
+# Required Plugins
+plugins_dir:
   - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
   - jekyll-sitemap
 
-paginate: 6
-paginate_path: "/blog/page:num/"
+# Pagination
+paginate: 5
+paginate_path: /page:num/
 
-# Google Analytics
-google_analytics: UA-143778282-1
+# Permalinks
+permalink: /:title
 
-  
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
