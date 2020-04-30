@@ -1,15 +1,19 @@
 ---
 layout: page
 title: About
-featured_image: /assets/images/pages/about.jpg
+featured_image: /assets/images/pages/Coney-island.jpeg
 ---
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+### Chinmay Wyawahare
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+Machine Learning enthusiast with a deep fascination for relational mathematics and pattern recognition.   
+Currently a graduate student at New York University pursuing Masters in Computer Science with an inclination towards distributed systems, BigData and Data Science. I love building products using existing and emerging technologies.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Always enthusiastic about learning and exploring new technologies. Looking for opportunities in the fields of software engineering, data engineering and data science.
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+On weekends, I spend a lot of time working on Data Science projects, gaming, hiking and photographing.
 
+I like to listen to all sorts of genres of music. A big time fan of [The Strokes](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb?autoplay=true&v=A) and [alt-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5?autoplay=true&v=A).
+
+Check out some of my shots on my photography portfolio: [gshots](https://gandalf1819.github.io/photography)
 *Thank You for reading!*
