@@ -8,8 +8,8 @@ baseurl:
 production_url: https://horace.netlify.com/
 disqus: 'justgoodthemes'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
-# cover_image: bc_1.jpg
-cover_image: bg.png
+cover_image: bc_1.jpg
+# cover_image: bg.png
 # Add your GA Tracking Id
 ga_analytics: UA-143778282-1
 
