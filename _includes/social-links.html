@@ -59,4 +59,10 @@
         <span class="screen-reader-text">ProductHunt</span>
     </a>
     {% endif %}
+    {% if site.kaggle %}
+    <a href="https://www.kaggle.com/{{ site.kaggle }}" target="_blank">
+        <span class="fa-kaggle fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Kaggle</span>
+    </a>
+    {% endif %}
 </p>
