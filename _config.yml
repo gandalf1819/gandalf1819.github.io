@@ -41,11 +41,11 @@ linkedin: 'chinmaywyawahare'
 
 # Navigation
 navigation:
-  - text: About
+  - text: about
     url: /about/
   - text: photography
     url: /photography/
-  - text: Contact Me
+  - text: contact me
     url: /contact/
 
 # Required Plugins

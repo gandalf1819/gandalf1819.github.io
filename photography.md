@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: Photography
 featured_image: /assets/images/pages/Coney-island.jpeg
 ---
 
