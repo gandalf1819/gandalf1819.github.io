@@ -42,7 +42,7 @@ linkedin: 'chinmaywyawahare'
 # Navigation
 navigation:
   - text: about
-    url: /about
+    url: /about-page
   - text: photography
     url: /photography/
   - text: contact me
