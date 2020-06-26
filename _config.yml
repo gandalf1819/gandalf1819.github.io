@@ -45,6 +45,8 @@ navigation:
     url: /about-page
   - text: photography
     url: /photography/
+  - text: viz
+    url: /viz
   - text: contact me
     url: /contact
 
