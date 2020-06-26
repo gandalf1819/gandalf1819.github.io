@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Visualizations
-featured_image: /assets/images/pages/Coney-island.jpeg
+featured_image: /assets/images/pages/strings.jpg
 ---
 
 ### Visualization Portfolio
 
-Check out some of my shots on my photography portfolio: [gshots](https://gandalf1819.github.io/photography)
+Welcome to my Viz portfolio showcasing interactive visualizations and dashboards!
 
-Feel free to drop a message to get in touch with me :)
+Here's the link for my Tableau Public profile: [Tableau Public](https://public.tableau.com/profile/chinmaynw#!)
 
 #### Formula 1 Grand Prix Analysis (1950 - 2017) 
 
@@ -30,7 +30,14 @@ Feel free to drop a message to get in touch with me :)
 
 <iframe src="https://public.tableau.com/views/SpotifyTop100Tracksof2018Analysis/Sheet1?:showVizHome=no&:embed=true" width="100%" height="800"></iframe>
 
-
 #### NYC Vehicular Data Analysis
 
 <iframe src="https://public.tableau.com/views/NYCVehicleData/Sheet3?:showVizHome=no&:embed=true" width="100%" height="800"></iframe>
+
+#### Fast Food Restaurant Analysis
+
+<iframe src="https://public.tableau.com/shared/2MS6RSNMX?:showVizHome=no&:embed=true" width="100%" height="800"></iframe>
+
+#### Zomato Restaurants Analysis
+
+<iframe src="https://public.tableau.com/views/Zomatorestaurantsanalysis/Sheet1?:showVizHome=no&:embed=true" width="100%" height="800"></iframe>
